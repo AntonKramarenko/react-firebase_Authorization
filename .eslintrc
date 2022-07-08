@@ -11,7 +11,7 @@
 
         // This rule enforces a consistent indentation style. The default style is 4 spaces.
         // https://eslint.org/docs/latest/rules/indent#js-toc-label
-        "indent": ["warn", "tab"],
+        // "indent": ["warn", "tab"],
 
         // This rule enforces consistent use of semicolons.
         // https://eslint.org/docs/latest/rules/semi#js-toc-label
